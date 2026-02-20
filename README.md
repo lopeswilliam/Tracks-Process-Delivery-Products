@@ -14,7 +14,7 @@
 
 4 - Obtem a informaçao, grava no bd.
 
-4.2 - Notifica o usuario consumer.
+4.1 - Notifica o usuario consumer.
 
 5 - User Delivery, pega a notificaçao,  executa o fluxo de entrega.
 

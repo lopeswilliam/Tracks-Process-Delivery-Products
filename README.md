@@ -1,8 +1,8 @@
 # Tracks-Process-Delivery-Products
 
-Objetivo desta proposta de solução arquitetural
+**Objetivo desta proposta de solução arquitetural**
 
-Demonstrar como a informação é trafegada deste a atuação do cliente consumidor, comprador até a entrega do produto. 
+**Demonstrar como a informação é trafegada deste a atuação do cliente consumidor, comprador até a entrega do produto. **
 
 1 -    Cliente, acessa a interface via mobile ou Web.
 
@@ -31,3 +31,14 @@ Demonstrar como a informação é trafegada deste a atuação do cliente consumi
 8 -    Até o Cliente receber o produto, ou nao, sempre terá o motivo da nao entrega do produto.
 
 9 -    User Business utiliza a ferramenta de analytics, para verificar o business, operacoes, delivery, etc... 
+
+
+**Modelo C4-MODEL**
+
+**Tipo: Contexto**
+
+O modelo consegue exibir vários níveis de detalhes e fornece uma maneira para que os desenvolvedores de software e partes interessadas tenham compreensão do sistema sem se ater muito aos detalhes.
+
+Este desenho arquitetural faz parte de uma proposta de solução para atender uma solicitaçao de modernizar os processos disruptivos que futuramente seram implementados em uma novas proposta de modernização arquitetura.
+
+Tracks I.A. INNOVATION BY WILLIAM LOPES

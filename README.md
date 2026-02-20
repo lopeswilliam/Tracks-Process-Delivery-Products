@@ -1,6 +1,11 @@
 # Tracks-Process-Delivery-Products
 
+Objetivo desta proposta de solução arquitetural
+
+Demonstrar como a informação é trafegada deste a atuação do cliente consumidor, comprador até a entrega do produto. 
+
 1 -    Cliente, acessa a interface via mobile ou Web.
+
 2 -    Executa o fluxo da transacao.
 
 2.1 - Gera o numero do pedido.

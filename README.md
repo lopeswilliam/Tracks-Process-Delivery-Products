@@ -2,7 +2,7 @@
 
 **Objetivo desta proposta de solução arquitetural**
 
-**Demonstrar como a informação é trafegada deste a atuação do cliente consumidor, comprador até a entrega do produto. **
+**Demonstrar como a informação é trafegada desde a atuação do cliente consumidor, comprador até a entrega do produto. **
 
 1 -    Cliente, acessa a interface via mobile ou Web.
 

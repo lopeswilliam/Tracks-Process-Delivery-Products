@@ -39,6 +39,6 @@
 
 O modelo consegue exibir vários níveis de detalhes e fornece uma maneira para que os desenvolvedores de software e partes interessadas tenham compreensão do sistema sem se ater muito aos detalhes.
 
-Este desenho arquitetural faz parte de uma proposta de solução para atender uma solicitaçao de modernizar os processos disruptivos que futuramente seram implementados em uma novas proposta de modernização arquitetura.
+Este desenho arquitetural faz parte de uma proposta de solução para atender uma solicitaçao de modernizar os processos disruptivos que futuramente seram implementados em uma novas proposta de modernização arquitetural.
 
-Tracks I.A. INNOVATION BY WILLIAM LOPES
+**Tracks I.A. INNOVATION BY WILLIAM LOPES**

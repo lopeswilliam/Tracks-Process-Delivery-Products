@@ -18,6 +18,8 @@
 
 4.1 - Notifica o usuario consumer.
 
+**4.2 - usuario consumer, PODE CANCELAR O PEDIDO AH QUALQUER MOMENTO..**
+
 5 - User vendor_delivery, pega a notificaçao, executa o fluxo de entrega.
 
 5.1 - Comunicação com o cliente usuario consumer, on the time, atraves de mensagem.

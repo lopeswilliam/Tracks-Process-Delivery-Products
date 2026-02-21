@@ -6,9 +6,11 @@
 
 1 - Cliente, acessa a interface via mobile ou Web.
 
-2 - Executa o fluxo da transacao.
+2 - Escolhe o produto.
 
-2.1 - Gera o numero do pedido.
+2.1 - Executa o fluxo da transacao.
+
+2.2 - Gera o numero do pedido.
 
 3 - Publica no topic e depois consome a informação, envia ACK.
 

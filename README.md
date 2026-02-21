@@ -18,11 +18,11 @@
 
 4.1 - Notifica o usuario consumer.
 
-5 - User Delivery, pega a notificaçao, executa o fluxo de entrega.
+5 - User vendor_delivery, pega a notificaçao, executa o fluxo de entrega.
 
 5.1 - Comunicação com o cliente usuario consumer, on the time, atraves de mensagem.
 
-6 - Obtem a informaçao, grava no bd - vendor.
+6 - Obtem a informaçao, grava no bd - vendor_delivery.
 
 6.1 - As informações sao postadas no topic, e depois consumidas, envia ACK.
 
@@ -30,7 +30,7 @@
 
 7.1 - Notifica o inicio e o caminho, que encontra se o pedido.
 
-7.2 - Qualquer movimentaçao que venha a ocorrer, o usuario vendor notifica o usuario consumer, on the time, atraves de mensagem.
+7.2 - Qualquer movimentaçao que venha a ocorrer, o usuario vendor_delivery notifica o usuario consumer, on the time, atraves de mensagem.
 
 8 - Até o Cliente receber o produto, ou nao, sempre terá o motivo da nao entrega do produto.
 

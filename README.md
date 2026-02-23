@@ -41,7 +41,7 @@
 
 **Modelo C4-MODEL**
 
-**Tipo: Contexto**
+**Tipo: COMPONENTE**
 
 O modelo consegue exibir vários níveis de detalhes e fornece uma maneira para que os desenvolvedores de software e partes interessadas tenham compreensão do sistema sem se ater muito aos detalhes.
 

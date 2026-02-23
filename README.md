@@ -41,9 +41,15 @@
 
 **Modelo C4-MODEL**
 
-**Tipo: COMPONENTE**
+**Tipo: CONTEXTO**
 
 O modelo consegue exibir vários níveis de detalhes e fornece uma maneira para que os desenvolvedores de software e partes interessadas tenham compreensão do sistema sem se ater muito aos detalhes.
+
+**Nível 1: Contexto**
+
+O nível de contexto fornece uma visão panorâmica do sistema, identificando os principais elementos e suas interações de alto nível.
+
+Isso inclui usuários, sistemas externos e os principais componentes do sistema em questão. 
 
 Este desenho arquitetural faz parte de uma proposta de solução para atender uma solicitaçao de modernizar os processos disruptivos que futuramente seram implementados em uma novas proposta de modernização arquitetural.
 

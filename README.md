@@ -53,4 +53,16 @@ Isso inclui usuários, sistemas externos e os principais componentes do sistema 
 
 Este desenho arquitetural faz parte de uma proposta de solução para atender uma solicitaçao de modernizar os processos disruptivos que futuramente seram implementados em uma novas proposta de modernização arquitetural.
 
+**PROPOSTA DE SOLUCAO ARQUITETURAL GOOGLE GCP**
+
+Está proposta de solução arquitetural tem como objetivo utilizar os recursos computacionais que o provedor  GOOGLE GCP.
+
+Fornece para implementar o produto DELIVERY PRODUCTS, utilizando os padroes e boas praticas da solução arquitetural.
+Incluindo segurança, escalabilidade, robustez, integridade da informação e consistencia dos dados.
+
+Foram avaliados os requisitos nao funcionais e funcionais para validar a usabilidade dos recursos, aplicando todos os criterios de aceite.
+
+O desenho arquitetural, esta sujeito a alterações.
+
+
 **Tracks I.A. INNOVATION BY WILLIAM LOPES**

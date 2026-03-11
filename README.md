@@ -10,7 +10,7 @@
 
 2.1 - Executa o fluxo da transacao.
 
-2.2 - Qualquer erro que venha a ocorrer durante o fluxo de pagamento, produtos, é tratado neste momemnto.
+2.2 - Qualquer erro que venha a ocorrer durante o fluxo de pagamento, produtos, é tratado neste momento.
 
 2.3 - Gera o numero do pedido.
 
